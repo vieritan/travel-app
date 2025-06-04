@@ -12,9 +12,8 @@ const Review = () => {
                     What Our Customers are saying us?
                 </h1>
                 <p className="mt-6 text-gray-200 text-justify">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae unde ut neque qui, 
-                    laborum tempore fugiat necessitatibus, perspiciatis et adipisci ullam magnam. Possimus, 
-                    rem impedit dolor architecto id ab libero?
+                    Here are the rating results from various customers. We are very grateful for the trust and 
+                    support from our loyal customers. Here are some honest comments from them.
                 </p>
 
                 {/* Ratings */}
